@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* ---------------------------------------nav---------------------------------- */
+.nave {
+    background: #152228;
+    display: flex;
+    padding: 5px 10%;
+    align-items: center;
+}
+
+.nave .logoe {
+    margin-left: 100px;
+}
+
+.nave .logoe img {
+    width: 200px;
+}
+
+.nave .links {
+    margin-left: 100px;
+}
+
+.nave .links a {
+    text-decoration: none;
+    color: white;
+    margin-left: 30px;
+}
+
+.nave .links a:hover {
+    color: #3da060;
+}
+
+/* -------------------------footer---------------------------------- */
+.foot {
+    background: #152228;
+    padding: 10px 5%;
+    display: flex;
+    align-items: center;
+    color: white;
+    justify-content: center;
+}
+
+.foot .one {
+    margin-left: 40px;
+}
+
+.foot .one img {
+    width: 100px;
+}
+
+.foot .one a {
+    text-decoration: none;
+    color: white;
+}
+
+.foot .one a i {
+    background: #3da060;
+    padding: 10px;
+    border-radius: 50%;
+    font-size: 20px;
+    margin-left: 40px;
+}
+
+.foot .one h1 {
+    font-size: 18px;
+}
+
+/* ----------------------------about-------------------------------- */
+.about {
+    display: flex;
+    padding: 30px 12%;
+    align-items: center;
+}
+
+.about .ann {
+    margin-left: 40px;
+}
+
+.about .ann h1 {
+    color: black;
+    font-size: 40px;
+}
+
+.about .ann p {
+    font-size: 18px;
+    color: #38393a;
+    line-height: 1.5;
+    margin-bottom: 30px;
+}
+/* mission */
+.mission {
+    display: flex;
+    padding: 30px 15%;
+}
+
+.mission .door {
+    margin-right: 40px;
+}
+
+.mission .door h1 {
+    color: black;
+    font-size: 40px;
+}
+
+.mission .door p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+/* ------------------------------contact-------------------------------- */
