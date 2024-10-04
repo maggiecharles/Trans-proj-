@@ -1,12 +1,12 @@
-* {
+/* * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Times New Roman', Times, serif;
-}
+} */
 
 /* ---------------------------------------nav---------------------------------- */
-.nave {
+/* .nave {
     background: #152228;
     display: flex;
     padding: 5px 10%;
@@ -33,10 +33,10 @@
 
 .nave .links a:hover {
     color: #3da060;
-}
+} */
 
 /* -------------------------footer---------------------------------- */
-.foot {
+/* .foot {
     background: #152228;
     padding: 10px 5%;
     display: flex;
@@ -68,7 +68,7 @@
 
 .foot .one h1 {
     font-size: 18px;
-}
+} */
 
 /* ----------------------------about-------------------------------- */
 .about {
